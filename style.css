@@ -1,0 +1,78 @@
+body {
+	width: 960px; 
+	margin: 0 auto;
+}
+
+.nav{
+    border:1px solid #ccc;
+    border-width:1px 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+
+.nav li{
+    display:inline;
+}
+.nav a{
+    display:inline-block;
+    padding:20px;
+    font-size:20pt;
+    font-family: Georgia;
+    color: purple;
+    text-decoration: none;
+}
+
+
+h1 {
+	font-size:20pt;
+    color: purple;
+    text-align: center;
+    font-family: Georgia;
+}
+
+h2 {
+	font-size: 30pt;
+    color: purple;
+    text-decoration: underline; 
+    font-family: Georgia;
+
+}
+
+p {
+	font-size: 14pt;
+	color: purple;
+	font-family: Georgia; 
+}
+
+
+img {
+	border-style: solid; 
+}
+
+#ghibli {
+	margin-left: 80px;
+}
+
+#dragon {
+	margin-right: 30px;
+}
+
+#hayao {
+	margin-right: 30px;
+}
+
+#satoshi {
+	margin-right: 30px;
+}
+
+#shinkai {
+
+margin-right: 30px;
+}
+
+
+#streaming {
+	margin-right: 30px;
+}
